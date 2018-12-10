@@ -1,4 +1,4 @@
-#Data Miner (ver 1.0) - Converting and Consolidating unstructured data into structure data.
+# Data Miner (ver 1.0) - Converting and Consolidating unstructured data into structure data.
 
 Present days most of the companies are working on Data Lake concept to consolidate there existing data bases which are residing in there sub units or department or  process.
 
