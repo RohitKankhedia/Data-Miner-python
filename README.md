@@ -50,5 +50,5 @@ For any update or queries please email of comment....
 
 ### Step 2: Start Mining
 
-
+##### https://analyticssol.blogspot.com/2018/12/data-miner-ver10-converting-and.html
 
