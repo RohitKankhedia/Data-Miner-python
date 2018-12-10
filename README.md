@@ -30,25 +30,25 @@ For any update or queries please email of comment....
 
 
 
-Believe in work not in words
+# Believe in work not in words
 
-Regards,
+## Regards,
 
-Rohit
-
-
+## Rohit
 
 
 
 
 
-How to Use:
+
+
+### How to Use:
 
 
 
-Step 1: Browser the folder
+### Step 1: Browser the folder
 
-Step 2: Start Mining
+### Step 2: Start Mining
 
 
 
